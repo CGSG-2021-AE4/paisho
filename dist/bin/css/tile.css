@@ -1,0 +1,5 @@
+:root {
+  --tile-shadow: rgba(0, 0, 0, 0.452);
+  --tile-bad-shadow: rgba(255, 0, 0, 0.404);
+  --tile-good-shadow: rgba(30, 255, 0, 0.26);
+}
